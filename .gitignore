@@ -1,0 +1,16 @@
+*.iml
+logs/
+
+*.log
+target/
+.settings
+.classpath
+
+/classes/
+/metastore_db/
+/.idea/
+/moji-scala.iml
+classes/*
+.idea/*.xml
+*.xml
+.idea/# Created by .ignore support plugin (hsz.mobi)
